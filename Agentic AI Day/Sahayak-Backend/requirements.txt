@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+httpx
+authlib
+google-cloud-aiplatform
+google-adk
+itsdangerous
+python-dotenv
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-cloud-storage
+python-docx
+beautifulsoup4

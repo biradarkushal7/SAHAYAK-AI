@@ -1,0 +1,10 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
+.git
+# Ensure sensitive credentials are not included in the build context if possible
+# Although we are copying it in the Dockerfile, this is a good practice
+client-secret.json
